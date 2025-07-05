@@ -44,22 +44,21 @@ Welcome! This study plan is designed for beginners and aspiring developers/ethic
 
 ---
 
-## 📂 Suggested Folder Structure
+## 📂 Folder Structure
 ```bash
+
 kali-linux-study-plan/
 ├── week01-linux-basics/
-│   └── practice-commands.sh
 ├── week02-networking/
-│   └── nmap-scans.txt
 ├── week03-04-bash-scripting/
-│   └── auto-scan.sh
 ├── week05-06-ethical-hacking/
-│   └── recon-script.sh
 ├── developer-path/
 │   └── automation-tools/
-│       └── scan_report.py
+├── Kali_Linux_Study_Plan.md
+├── Kali_Linux_Study_Plan.pdf
+├── learning-log.md
 └── README.md  # <- this file
+
 ```
 
-Feel free to add `.md` notes, code files, and progress reports in each folder!
 
