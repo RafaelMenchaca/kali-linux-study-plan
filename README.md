@@ -61,4 +61,14 @@ kali-linux-study-plan/
 
 ```
 
+## Bookmark These for Later
+
+| Tool                    | Link                                                             |
+| ----------------------- | ---------------------------------------------------------------- |
+| Linux commands practice | [https://linuxcommand.org](https://linuxcommand.org)             |
+| Bash scripting          | [freeCodeCamp Bash](https://www.youtube.com/watch?v=SPwyp2NG-bE) |
+| TryHackMe               | [https://tryhackme.com](https://tryhackme.com)                   |
+| Nmap Book               | [https://nmap.org/book/](https://nmap.org/book/)                 |
+
+
 
