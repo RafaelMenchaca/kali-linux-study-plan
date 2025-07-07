@@ -48,12 +48,18 @@ Welcome! This study plan is designed for beginners and aspiring developers/ethic
 ```bash
 
 kali-linux-study-plan/
+├── developer-path/
+│   └── automation-tools/
+│       └── .venv/
 ├── week01-linux-basics/
+│   ├── test-folder/
+│   │    └── subfolder/
+│   ├── permissions-practice.sh
+│   ├── practice-commands.sh
+│   └── restricted.txt
 ├── week02-networking/
 ├── week03-04-bash-scripting/
 ├── week05-06-ethical-hacking/
-├── developer-path/
-│   └── automation-tools/
 ├── Kali_Linux_Study_Plan.md
 ├── Kali_Linux_Study_Plan.pdf
 ├── learning-log.md

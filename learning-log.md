@@ -1,5 +1,14 @@
 # 🧠 Kali Linux Study Log – Rafael
 
+## 📅 07-06-2025 – Week 1 Day 2
+
+- ✅ Practiced with `chmod` (444, u+w)
+- ✅ Used `sudo chown` to change file ownership to root
+- ❌ Got permission errors when writing to root-owned files
+- ✅ Learned how `sudo` allows root-level access
+- 💡 Realized how Linux protects system files through permissions
+
+
 ## 📅 07-05-2025 week 1 day 1
 
 - ✅ Practiced basic Linux commands via custom script  
@@ -9,7 +18,7 @@
 - Navigating into subdirectories
 
 
-## 📅 07-05-2025
+## 📅 07-04-2025
 
 - ✅ Finished Kali Linux setup (dual boot with Windows)
 - ✅ Created GitHub repo and pushed structure
