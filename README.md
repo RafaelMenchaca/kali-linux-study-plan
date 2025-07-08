@@ -53,7 +53,11 @@ kali-linux-study-plan/
 │       └── .venv/
 ├── week01-linux-basics/
 │   ├── test-folder/
-│   │    └── subfolder/
+│   │   └── subfolder/
+│   │       ├── file1.txt
+│   │       ├── file2.txt
+│   │       └── renamed.txt
+│   ├── explore-systems.sh
 │   ├── permissions-practice.sh
 │   ├── practice-commands.sh
 │   └── restricted.txt

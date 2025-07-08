@@ -1,5 +1,15 @@
 # 🧠 Kali Linux Study Log – Rafael
 
+
+## 📅 07-07-2025 – Week 1 Day 3
+
+- ✅ Explored Linux root folders: `/`, `/etc`, `/usr`, `/home`, `/var`
+- ✅ Used `cat /etc/hostname` to view system config
+- ✅ Ran `dpkg -l`, `dpkg -s`, and `apt-cache search` to view packages
+- ✅ Learned how Linux stores system-wide apps and configs
+- ⚠️ Will never delete files in `/etc` or `/usr` 😅
+
+
 ## 📅 07-06-2025 – Week 1 Day 2
 
 - ✅ Practiced with `chmod` (444, u+w)
