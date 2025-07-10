@@ -1,6 +1,13 @@
 # 🧠 Kali Linux Study Log – Rafael
 
 
+## 📅 07-09-2025 – Week 1 Day 4 (continued)
+
+- ✅ Switched from `last` to `wtmpdb` for login history
+- ✅ Built a script to check logins for today
+- ✅ Learned how to pass `date` output as CLI arguments
+
+
 ## 📅 07-07-2025 – Week 1 Day 3
 
 - ✅ Explored Linux root folders: `/`, `/etc`, `/usr`, `/home`, `/var`
