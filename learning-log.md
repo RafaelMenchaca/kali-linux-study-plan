@@ -1,5 +1,12 @@
 # 🧠 Kali Linux Study Log – Rafael
 
+## 📅 07-10-2025 – Week 1 Day 5
+
+- ✅ Built my first interactive Bash tool: `check-status.sh`
+- ✅ Learned to use `read`, `if`, `case`, and ANSI color codes
+- ✅ Practiced making decisions and showing results with style
+- 🔥 This feels like a real terminal tool!
+
 
 ## 📅 07-09-2025 – Week 1 Day 4 (continued)
 
