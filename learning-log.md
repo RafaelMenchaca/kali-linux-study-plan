@@ -8,7 +8,7 @@
 - 🔥 This feels like a real terminal tool!
 
 
-## 📅 07-09-2025 – Week 1 Day 4 (continued)
+## 📅 07-09-2025 – Week 1 Day 4
 
 - ✅ Switched from `last` to `wtmpdb` for login history
 - ✅ Built a script to check logins for today
