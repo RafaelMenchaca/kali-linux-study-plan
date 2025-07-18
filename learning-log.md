@@ -1,5 +1,9 @@
 # 🧠 Kali Linux Study Log – Rafael
 
+## 📅 07-17-2025
+- ❌ My laptop with dual boot kali linux / windows just die :c
+- ✅ Now i got a brand new laptop and installed kali linux terminal WSL
+
 ## 📅 07-10-2025 – Week 1 Day 5
 
 - ✅ Built my first interactive Bash tool: `check-status.sh`
