@@ -1,8 +1,20 @@
 # 🧠 Kali Linux Study Log – Rafael
 
+## 📅 07-23-2025 – Week 2 Day 1 
+Network Check
+
+- ✅ Test to google.com for practice
+- ✅ Installed 'sudo apt install dnsutils whois net-tools traceroute -y'
+- ✅ IP address info 'ip a'
+- ✅ Testing ping with 'ping -c 4 google.com'
+- ✅ Traceroutes 'traceroute google.com'
+
+
 ## 📅 07-17-2025
+
 - ❌ My laptop with dual boot kali linux / windows just die :c
 - ✅ Now i got a brand new laptop and installed kali linux terminal WSL
+
 
 ## 📅 07-10-2025 – Week 1 Day 5
 
@@ -37,7 +49,7 @@
 - 💡 Realized how Linux protects system files through permissions
 
 
-## 📅 07-05-2025 week 1 day 1
+## 📅 07-05-2025 - Week 1 day 1
 
 - ✅ Practiced basic Linux commands via custom script  
 - ✅ Learned about:
