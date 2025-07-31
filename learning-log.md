@@ -1,5 +1,19 @@
 # 🧠 Kali Linux Study Log – Rafael
 
+## 📅 07-31-2025 Week 2 Day 2 
+Network Scanning
+
+- ✅ Learned how to inspect current network settings using ip a
+- ✅ Identified IP address and subnet of WSL2 Kali environment (eth0)
+- ✅ Used nmap -sn to discover live hosts in the subnet
+- ✅ Used nmap -sV to scan local machine for open ports and services
+- ✅ Created and ran a Bash script scan-network.sh to automate scans and save results to nmap-scans.txt
+- 🧠 Reinforced understanding of:
+    - IP ranges and subnetting
+    - Passive vs active scanning
+    - Service version detection (-sV)
+- 🔐 Aware that WSL2 is isolated from the host network (NAT), real LAN scanning requires a full Linux install or bridged adapter
+
 ## 📅 07-23-2025 – Week 2 Day 1 
 Network Check
 

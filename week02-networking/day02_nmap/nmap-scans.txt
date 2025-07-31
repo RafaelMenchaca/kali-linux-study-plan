@@ -1,0 +1,37 @@
+📅 07-31-2025 – Week 2 Day 2
+
+🔎 Scanned Network: 172.30.144.0/20
+Command: nmap -sn 172.30.144.0/20
+
+✅ Found 5 devices:
+- 172.30.158.1 – router
+- 172.30.158.12 – my PC
+...
+
+🔐 Scanned my own host for open ports:
+Command: nmap -sV 172.30.158.12
+Result: [open ports and services]
+📅 2025-07-31 – Week 2 Day 2
+🔎 Scanning Network: 172.30.144.0/20
+Command: nmap -sn 172.30.144.0/20
+----------------------------------------
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-07-31 18:48 CDT
+Nmap scan report for rafaelpc.mshome.net (172.30.144.1)
+Host is up (0.00029s latency).
+MAC Address: 00:15:5D:43:D4:46 (Microsoft)
+Nmap scan report for 172.30.158.12
+Host is up.
+Nmap done: 4096 IP addresses (2 hosts up) scanned in 9.41 seconds
+
+🔐 Scanning this machine (172.30.158.12) for open ports...
+Command: nmap -sV 172.30.158.12
+----------------------------------------
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-07-31 18:48 CDT
+Nmap scan report for 172.30.158.12
+Host is up (0.0000010s latency).
+All 1000 scanned ports on 172.30.158.12 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.17 seconds
+
